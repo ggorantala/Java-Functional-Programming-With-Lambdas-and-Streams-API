@@ -1,6 +1,6 @@
 # Java Functional Programming with Lambdas and Streams API
 
-Code examples and exercises for the course **"Master Java 8/11/17 Functional Programming with Lambdas and Streams API"** on [ggorantala.dev](https://ggorantala.dev).
+Code examples and exercises for the course **[Functional Programming With Streams API](https://www.javahandbook.com/java-streams-api/)** on [Java Handbook](https://www.javahandbook.com).
 
 ---
 
@@ -23,7 +23,7 @@ Code examples and exercises for the course **"Master Java 8/11/17 Functional Pro
 
 ## About
 
-Functional programming was introduced in Java SE 8 and has become essential for writing concise, readable, and high-performance code. This repository contains all code examples, exercises, and solutions from the course, organized chapter by chapter.
+Functional programming was introduced in Java SE 8 and has become essential for writing concise, readable, and high-performance code. This repository contains all code examples, exercises, and solutions from the [Functional Programming With Streams API](https://www.javahandbook.com/java-streams-api/) course, organized chapter by chapter.
 
 By working through this material you will learn to:
 
@@ -288,6 +288,6 @@ cd Java-Functional-Programming-WIth-Lambdas-and-Streams-API
 
 ## Course Link
 
-**[Master Java Functional Programming with Lambdas and Streams API](https://www.ggorantala.dev/java-streams-api/)**
+**[Functional Programming With Streams API — Java Handbook](https://www.javahandbook.com/java-streams-api/)**
 
 Happy coding!
